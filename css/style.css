@@ -1,7 +1,18 @@
 * {
-	background-color: white;
+	background-color: #c8c8c8;
+	color: #686868;
+}
+h1 {
+	font-size: 4rem;
 }
 
+#main {
+	text-align: center;
+}
+
+#img-div{
+	background-color: white;
+}
 #image {
 	max-width: 100%;
 	display: block;
